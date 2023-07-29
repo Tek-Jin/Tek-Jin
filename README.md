@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing smart products and systems.
 - 🌱 I’m currently learning interaction prototyping.
 - 💞️ I’m looking to collaborate on chaging the world better.
-- 📫 You can reach me through the department of Industrail Design, KAIST.
+- 📫 You can reach me through the Department of Industrail Design, KAIST.
 
 <!---
 Tek-Jin/Tek-Jin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
